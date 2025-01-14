@@ -1,0 +1,11 @@
+# Virtual Environment
+/bin
+/include
+/lib
+/lib64
+pyvenv.cfg
+
+# Plotly
+/etc
+/share
+
